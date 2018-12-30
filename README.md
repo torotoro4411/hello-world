@@ -1,2 +1,1 @@
-# hello-world
-init github sample sources
+this is a poo
